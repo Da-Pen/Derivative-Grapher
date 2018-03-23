@@ -2,6 +2,8 @@
 
 This is a program that graphs a function from user input, and its derivative, as well as the tanget line corresponding to the derivative.
 
+![alt text](http://dpeng.me/Derivative-Grapher.png)
+
 # Instructions
 If you just want the game, please navigate to the folder named "dist" and download "CalculusFinalProject.jar". If you would like the game with the source code, download the entire folder.
 
